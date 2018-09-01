@@ -1,0 +1,20 @@
+.header{
+    border-bottom: 2px solid gray;
+}
+
+.ranking_no {
+    color: red;
+}
+
+.grid-6{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    border-top: 2px solid gray;
+}
+
+#page-top{
+    float:right;
+}
